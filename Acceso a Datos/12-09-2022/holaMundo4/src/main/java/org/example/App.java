@@ -51,7 +51,8 @@ public class App
                 i++;
                 System.out.println("Su matricula es correcta, puede pasar");
 
-            }else{
+            }else if(charMatricula.
+            else{
                 System.out.println("Su matricula es incorrecta, no puede pasar");
                 break;
             }
