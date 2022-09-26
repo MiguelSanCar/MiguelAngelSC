@@ -10,3 +10,18 @@ C:\Users\FP\source\repos\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.ca
 C:\Users\FP\source\repos\Forms\Forms\obj\Debug\Forms.exe
 C:\Users\FP\source\repos\Forms\Forms\obj\Debug\Forms.pdb
 C:\Users\FP\source\repos\Forms\Forms\obj\Debug\Forms.Form2.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\bin\Debug\Forms.exe
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\bin\Debug\Forms.pdb
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Form2.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.exe
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.pdb
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio2.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio3.resources

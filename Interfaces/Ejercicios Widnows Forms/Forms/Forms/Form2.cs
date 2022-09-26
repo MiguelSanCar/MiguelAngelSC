@@ -50,7 +50,34 @@ namespace Forms
         {
 
         }
-        
+
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Font nose = new Font("Arial", 25);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Ejercicio boton = new Ejercicio();
+            boton.Show();
+            
+        }
+
         /*
 public void agregarBotonDinamico()
 {
