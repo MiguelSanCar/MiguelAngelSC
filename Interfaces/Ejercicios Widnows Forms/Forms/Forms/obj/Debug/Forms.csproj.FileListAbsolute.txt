@@ -25,3 +25,10 @@ C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\For
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio.resources
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio2.resources
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio3.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Interop.WMPLib.dll
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.csproj.ResolveComReference.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio4.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio5.resources
