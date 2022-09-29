@@ -32,3 +32,5 @@ C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\For
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.csproj.ResolveComReference.cache
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio4.resources
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio5.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio6.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio7.resources
