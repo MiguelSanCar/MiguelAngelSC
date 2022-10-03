@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mascotas>
+    <mascota>
+        <tipo>Perro</tipo>
+        <edad>5</edad>
+        <genero>Macho</genero>
+    </mascota>
+    <mascota Nombre="Luna">
+        <tipo>Gato</tipo>
+        <edad>10</edad>
+        <genero>Hembra</genero>
+    </mascota>
+    <mascota Nombre="Churchill">
+        <tipo>Gato</tipo>
+        <edad>2</edad>
+    </mascota>
+<mascota Nombre="Paquito">
+      <genero>Macho</genero>
+      <tipo>Gato</tipo>
+      <edad>12</edad>
+   </mascota>
+</mascotas>
