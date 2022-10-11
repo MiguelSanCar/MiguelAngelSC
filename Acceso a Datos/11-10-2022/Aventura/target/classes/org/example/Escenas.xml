@@ -1,9 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<aventura titulo = "temporal">
-    <escena codigo = "1">
-        <texto></texto>
-        <opcion id = "1" texto = "" resultado = ""></opcion>
+<aventura titulo = "primera">
+    <escena codigo = "0">
+        <texto>
+            Despiertas en una comoda cama con las sabanas color salmon, aún es pronto en la mañana, el reloj en tu mesilla aún marca las 05:00
+            A pesar de la extraña limpieza de la habitación y la comodidad de la cama, sabes que éste no es tu hogar, ni tampoco un lugar en el que quedarse
+            Te levantas de la cama y te miras en el espejo
+        </texto>
+        <opcion id = "1" texto = "Salir de la habitación" resultado = "1"></opcion>
+        <opcion id = "2" texto = "Vestirse" resultado = "2"></opcion>
+        <opcion id = "3" texto = "Pegarse una ducha" resultado = "3"></opcion>
 
     </escena>
+
+    //escena ducha
+    <escena codigo = "3">
+        <texto>
+            Te diriges hacia el baño, abres la puerta y un asqueroso olor inunda tus sentidos, miras a tu alrederdor, pero no encuentras la fuente de la peste
+            De cualquier forma, abres el giras el pomo de la ducha y por suerte sale agua del grifo. El agua sale fría, pero no es ningun problema.
+            Llevas un tiempo sin pegarte una buena ducha y puede que el olor no tenga nada que ver con la calidad del agua, la cual parece salir clara.
+        </texto>
+        <opcion id = "1" texto = "Ducharse a pesar del olor" resultado = ""></opcion>
+        <opcion id = "2" texto = "Cerrar el grifo y vestirse, la higiene no es tan importante" resultado = ""></opcion>
+        <opcion id = "3" texto = "Cerrar el agua y buscar la fuente del olor" resultado = ""></opcion>
+
+    </escena>
+    //escena vestirse
+    <escena codigo = "2">
+        <texto>
+            Coges la ropa reposada sobre el sillón al lado de la cama y te la pones, un pantalón vaquero raspado por el uso, una camiseta gris y un chaquetón negro.
+            Mientras te la pones, notas como el calor del verano se acerca, y el chaquetón empieza a ser una molestia.
+            Sabes por propia mano que las mangas anchas de los chaquetones pueden salvarte de una mordedura fortuita, pero el cansancio puede ser un problema.
+        </texto>
+        <opcion id = "1" texto = "Dejar la chaqueta" resultado = ""></opcion>
+        <opcion id = "2" texto = "Romper la chaqueta en tiras para usarla como vendas más adelante" resultado = ""></opcion>
+        <opcion id = "3" texto = "Llevar la chaqueta puesta" resultado = ""></opcion>
+
+    </escena>
+    //escena desnudo
+    <escena codigo = "1">
+        <texto>
+            Decides salir de la habitación como dios te trajo al mundo, desnudo, pero con un par de pelotas.
+            El cansancio de sobrevivir al minimo constantemente empieza a hacerte tomar decisiones irracionales.
+            Por suerte el frío del invierno comienza a desvanecerse y tu decisión puede no ser tan mala.
+            Bajas un piso y buscas un arma con la que defenderte en tu viaje.
+        </texto>
+        <opcion id = "1" texto = "Rompes una pata de la mesa del comedor a patadas" resultado = ""></opcion>
+        <opcion id = "2" texto = "Sales sin armas, hay que aprvechar al máximo el tiempo" resultado = ""></opcion>
+        <opcion id = "3" texto = "Seguir buscando en el garaje" resultado = ""></opcion>
+
+    </escena>
+
+    <escena codigo = "1">
+        <texto>
+            Decides salir de la habitación como dios te trajo al mundo, desnudo, pero con un par de pelotas.
+            El cansancio de sobrevivir al minimo constantemente empieza a hacerte tomar decisiones irracionales.
+            Por suerte el frío del invierno comienza a desvanecerse y tu decisión puede no ser tan mala.
+            Bajas un piso y buscas un arma con la que defenderte en tu viaje.
+        </texto>
+        <opcion id = "1" texto = "Rompes una pata de la mesa del comedor a patadas" resultado = ""></opcion>
+        <opcion id = "2" texto = "Sales sin armas, hay que aprvechar al máximo el tiempo" resultado = ""></opcion>
+        <opcion id = "3" texto = "Seguir buscando en el garaje" resultado = ""></opcion>
+
+    </escena>
+
+
+
 </aventura>

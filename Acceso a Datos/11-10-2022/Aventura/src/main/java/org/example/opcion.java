@@ -1,9 +1,8 @@
 package org.example;
 
 import javax.xml.bind.annotation.XmlAttribute;
-import javax.xml.bind.annotation.XmlElement;
 
-public class opcion {
+public class Opcion {
     int id = 0;
     String texto = "";
     //el resultado es el id de la escena a la que redirige
@@ -33,12 +32,4 @@ public class opcion {
         this.resultado = resultado;
     }
 
-    @Override
-    public String toString() {
-        return "opcion{" +
-                "id=" + id +
-                ", texto='" + texto + '\'' +
-                ", resultado=" + resultado +
-                '}';
-    }
 }

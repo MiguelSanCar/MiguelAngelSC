@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class Escena {
     int codigo = 0;
     String texto = "";
-    ArrayList<opcion> opcion = new ArrayList<opcion>();
+    ArrayList<Opcion> opcion = new ArrayList<Opcion>();
 
     public int getCodigo() {
         return codigo;
@@ -28,12 +28,12 @@ public class Escena {
     }
 
 
-    public ArrayList<opcion> getOpcion() {
+    public ArrayList<Opcion> getOpcion() {
         return opcion;
     }
 
     @XmlElement
-    public void setOpcion(ArrayList<opcion> opcion) {
+    public void setOpcion(ArrayList<Opcion> opcion) {
         this.opcion = opcion;
     }
 
@@ -42,7 +42,7 @@ public class Escena {
         return "Escena{" +
                 "codigo=" + codigo +
                 ", texto='" + texto + '\'' +
-                //", opcion=" + opcion +
+                ", opcion=" + opcion +
                 '}';
     }
 }
