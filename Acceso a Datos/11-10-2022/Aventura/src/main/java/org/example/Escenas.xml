@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aventura titulo = "temporal">
+    <escena codigo = "1">
+        <texto></texto>
+        <opcion id = "1" texto = "" resultado = ""></opcion>
+
+    </escena>
+</aventura>

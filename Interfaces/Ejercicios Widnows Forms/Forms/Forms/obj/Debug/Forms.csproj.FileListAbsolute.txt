@@ -34,3 +34,11 @@ C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\For
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio5.resources
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio6.resources
 C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio7.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio8.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio9.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\bin\Debug\en\Forms.resources.dll
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.pruebas.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Idiomas.Generico.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Idiomas.generico.en.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\en\Forms.resources.dll
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Ejercicios Widnows Forms\Forms\Forms\obj\Debug\Forms.Ejercicio10.resources
