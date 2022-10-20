@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aventura titulo = "primera">
+    <escena codigo = "0">
+        <texto>
+            Despiertas en una comoda cama con las sabanas color salmon, aún es pronto en la mañana, el reloj en tu mesilla aún marca las 05:00
+            A pesar de la extraña limpieza de la habitación y la comodidad de la cama, sabes que éste no es tu hogar, ni tampoco un lugar en el que quedarse
+            Te levantas de la cama y te miras en el espejo
+        </texto>
+        <opcion id = "1" texto = "Salir de la habitación" resultado = "1"></opcion>
+        <opcion id = "2" texto = "Vestirse" resultado = "2"></opcion>
+        <opcion id = "3" texto = "Pegarse una ducha" resultado = "3"></opcion>
+
+    </escena>
+
+    //escena ducha
+    <escena codigo = "3">
+        <texto>
+            Te diriges hacia el baño, abres la puerta y un asqueroso olor inunda tus sentidos, miras a tu alrederdor, pero no encuentras la fuente de la peste
+            De cualquier forma, giras el pomo de la ducha y por suerte sale agua del grifo. El agua sale fría, pero no es ningun problema.
+            Llevas un tiempo sin pegarte una buena ducha y puede que el olor no tenga nada que ver con la calidad del agua, la cual parece salir clara.
+        </texto>
+        <opcion id = "1" texto = "Ducharse a pesar del olor" resultado = "4"></opcion>
+        <opcion id = "2" texto = "Cerrar el grifo y vestirse, la higiene no es tan importante" resultado = "2"></opcion>
+        <opcion id = "3" texto = "Cerrar el agua y buscar la fuente del olor" resultado = "5"></opcion>
+
+    </escena>
+    //escena vestirse
+    <escena codigo = "2">
+        <texto>
+            Coges la ropa reposada sobre el sillón al lado de la cama y te la pones, un pantalón vaquero raspado por el uso, una camiseta gris y un chaquetón negro.
+            Mientras te la pones, notas como el calor del verano se acerca, y el chaquetón empieza a ser una molestia.
+            Sabes por propia mano que las mangas anchas de los chaquetones pueden salvarte de una mordedura fortuita, pero el cansancio puede ser un problema.
+        </texto>
+        <opcion id = "1" texto = "Dejar la chaqueta" resultado = "6"></opcion>
+        <opcion id = "2" texto = "Romper la chaqueta en tiras para usarla como vendas más adelante" resultado = "6"></opcion>
+        <opcion id = "3" texto = "Llevar la chaqueta puesta" resultado = "6"></opcion>
+
+    </escena>
+    //escena desnudo
+    <escena codigo = "1">
+        <texto>
+            Decides salir de la habitación como dios te trajo al mundo, desnudo, pero con un par de pelotas.
+            El cansancio de sobrevivir al minimo constantemente empieza a hacerte tomar decisiones irracionales.
+            Por suerte el frío del invierno comienza a desvanecerse y tu decisión puede no ser tan mala.
+            Bajas un piso y buscas un arma con la que defenderte en tu viaje.
+        </texto>
+        <opcion id = "1" texto = "Rompes una pata de la mesa del comedor con las manos" resultado = "7"></opcion>
+        <opcion id = "2" texto = "Sales sin armas, hay que aprvechar al máximo el tiempo" resultado = ""></opcion>
+        <opcion id = "3" texto = "Seguir buscando en el garaje" resultado = ""></opcion>
+
+    </escena>
+
+    <escena codigo = "6">
+        <texto>
+            Entras en el salón de la casa, miras a tu alrededor, buscando un arma con la que defenderte.
+            No parece haber nada util, tan solo una mesa llene de polvo y un par de sillas a su alrededor.
+        </texto>
+        <opcion id = "1" texto = "Rompes una pata de la mesa del comedor con las manos" resultado = "7"></opcion>
+        <opcion id = "2" texto = "Sales sin armas, hay que aprvechar al máximo el tiempo" resultado = ""></opcion>
+        <opcion id = "3" texto = "Seguir buscando en el garaje" resultado = ""></opcion>
+
+    </escena>
+
+    <escena codigo = "4">
+        <texto>
+            A media ducha te das cuenta de que el color empieza a cambiar a uno cada vez más oscuro, mientras que el olor sigue siendo cada vez más asqueroso.
+            De repente, el color marron claro empieza a tornarse en un color rojo sangre, el hedor empieza a resultarte familiar.
+            Empiezas a oler a sangre, todo tu cuerpo esta cubierto de ella, sales de la ducha y te secas con la toalla lo mejor que puedes.
+        </texto>
+        <opcion id = "1" texto = "Decides revisar la fuente de la sangre" resultado = "5"></opcion>
+        <opcion id = "2" texto = "Decides no hacer nada respecto a la sangre" resultado = ""></opcion>
+        <opcion id = "3" texto = "Vuelves a la cama y te acurrucas como un bebe, esperando la muerte" resultado = ""></opcion>
+
+    </escena>
+    <escena codigo = "5">
+        <texto>
+            Antes de acampar, como es costumbre, hiciste un reconocimiento de la zona, y pudiste observar una torre de agua, te diriges hacia ella con cuidado.
+            Por el camino te das cuenta de una horda en la carretera principal, por el momento no parecen ser un peligro, pero lo mejor sería irse pronto.
+            Finalmente subes a la torre con cuidado de no caerte, escuchas dentro un extraño gruñido, parece provenir de un animal atrapado.
+        </texto>
+        <opcion id = "1" texto = "Abres la trampilla y miras dentro" resultado = "5"></opcion>
+        <opcion id = "2" texto = "Bajas de la torre y te vas" resultado = ""></opcion>
+        <opcion id = "3" texto = "Bajas de la torre y vuelves a la casa para buscar un arma" resultado = "6"></opcion>
+
+    </escena>
+    <escena codigo = "7">
+        <texto>
+            A puño limpio cual MacGregor en sus mejores dias, rompes la gruesa pata de la mesa a duras penas, sin embargo no fue tan buena idea.
+            Te miras las manos y te das cuenta de las heridas que te has causado, tu muñeca izquierda está ahora esguinzada, y el dolor de la derecha no es mucho menor.
+        </texto>
+        <opcion id = "1" texto = "Te vendas la mano derecha e intentas estabilizar la izquierda" resultado = "8"></opcion>
+        <opcion id = "2" texto = "Al menos tienes un arma, abres la puerta y te vas" resultado = ""></opcion>
+        <opcion id = "3" texto = "Buscas por la casa un botiquín" resultado = "6"></opcion>
+
+    </escena>
+    <escena codigo = "8">
+        <texto>
+            Consigues estabilizar la muñeca y tapar la herida del puño, por suerte el sangrado no es muy profundo y los bichos no te perseguirán por el olor.
+            No te queda nada más que hacer en esta casa, a no ser que decidas quedarte para ver el fin de tus días en ella.
+        </texto>
+        <opcion id = "1" texto = "Sales de la casa, en busca de sobrevivir un día más como hermitaño" resultado = "8"></opcion>
+        <opcion id = "2" texto = "Con un arma te sientes más fuerte, y vas hacia la torre de agua, de donde proviene el mal olor" resultado = ""></opcion>
+        <opcion id = "3" texto = "Vuelves a la cama y te acurrucas como un bebe, esperando la muerte" resultado = "6"></opcion>
+
+    </escena>
+    <escena codigo = "9">
+        <texto>
+            Cansado de pelear por cada comida y noche, te acurrucas de nuevo en la cama, no consigues pegar ojo, al fin te has decidico a morir.
+            Por tu cabeza pasan las imagenes de toda tu vida, los recuerdos de cuando eras pequeño, cada cumpleaños, cada amigo...
+            Día tras día esperas la muerte, hasta que un día, simplemente no despiertas.
+        </texto>
+    </escena>
+</aventura>
