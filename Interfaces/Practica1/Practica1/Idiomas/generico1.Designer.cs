@@ -61,6 +61,24 @@ namespace Practica1.Idiomas {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a FIN DEL JUEGO.
+        /// </summary>
+        internal static string end {
+            get {
+                return ResourceManager.GetString("end", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Debe hacer click en el botón de Comenzar primero.
+        /// </summary>
+        internal static string error1 {
+            get {
+                return ResourceManager.GetString("error1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Español (es-ES).
         /// </summary>
         internal static string espanol {

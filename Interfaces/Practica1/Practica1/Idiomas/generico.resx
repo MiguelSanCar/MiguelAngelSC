@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="end" xml:space="preserve">
+    <value>FIN DEL JUEGO</value>
+  </data>
+  <data name="error1" xml:space="preserve">
+    <value>Debe hacer click en el botón de Comenzar primero</value>
+  </data>
   <data name="espanol" xml:space="preserve">
     <value>Español (es-ES)</value>
   </data>

@@ -276,7 +276,7 @@ namespace Practica1
             {
                 timer1.Enabled = false;
                 label1.Text = "0";
-                MessageBox.Show("FIN DEL JUEGO, ",
+                MessageBox.Show(generico.end,
              "Game Over",
              MessageBoxButtons.OKCancel,
              MessageBoxIcon.Information
@@ -297,7 +297,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -316,7 +316,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -336,7 +336,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -357,7 +357,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -377,7 +377,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -397,7 +397,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -417,7 +417,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -437,7 +437,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -457,7 +457,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -477,7 +477,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -498,7 +498,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
@@ -519,7 +519,7 @@ namespace Practica1
             }
             else
             {
-                MessageBox.Show("Debe hacer click en el botón de Comenzar primero ",
+                MessageBox.Show(generico.error1,
                 "ERROR",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information);
