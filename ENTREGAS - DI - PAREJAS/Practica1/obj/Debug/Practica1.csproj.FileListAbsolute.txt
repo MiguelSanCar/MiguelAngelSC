@@ -1,0 +1,15 @@
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\bin\Debug\en\Practica1.resources.dll
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.Idiomas.generico.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\Practica1.Idiomas.generico.en.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\Practica1\obj\Debug\en\Practica1.resources.dll

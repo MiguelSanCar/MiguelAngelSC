@@ -589,15 +589,22 @@ namespace Practica1
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
+            int posicion = 0;
             if (comboBox1.SelectedIndex == 0)
             {
                 Thread.CurrentThread.CurrentUICulture = new CultureInfo("es-ES");
+                posicion = 0;
             }
             else
             {
                 Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
-
+                
+                posicion = 1;
             }
+
+            button1.Text = generico.boton;
+
+            comboBox1.SelectedIndex = posicion;
         }
 
         private void label3_Click(object sender, EventArgs e)

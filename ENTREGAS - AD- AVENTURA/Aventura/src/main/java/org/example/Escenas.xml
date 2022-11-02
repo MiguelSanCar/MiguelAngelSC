@@ -3,8 +3,8 @@
 <aventura titulo = "primera">
     <escena codigo = "0">
         <texto>
-            Despiertas en una comoda cama con las sabanas color salmon, aún es pronto en la mañana, el reloj en tu mesilla aún marca las 05:00
-            A pesar de la extraña limpieza de la habitación y la comodidad de la cama, sabes que éste no es tu hogar, ni tampoco un lugar en el que quedarse
+            Despiertas en una cama, aún es pronto en la mañana, el reloj en la mesilla aún marca las 05:00
+            A pesar de la limpieza de la habitación y la comodidad de la cama, sabes que este no es tu hogar, ni tampoco un lugar en el que quedarse
             Te levantas de la cama y te miras en el espejo
         </texto>
         <opcion id = "1" texto = "Salir de la habitación" resultado = "1"></opcion>
@@ -46,8 +46,8 @@
             Bajas un piso y buscas un arma con la que defenderte en tu viaje.
         </texto>
         <opcion id = "1" texto = "Rompes una pata de la mesa del comedor con las manos" resultado = "7"></opcion>
-        <opcion id = "2" texto = "Sales sin armas, hay que aprvechar al máximo el tiempo" resultado = ""></opcion>
-        <opcion id = "3" texto = "Seguir buscando en el garaje" resultado = ""></opcion>
+        <opcion id = "2" texto = "Sales sin armas, hay que aprovechar al máximo el tiempo" resultado = "10"></opcion>
+        <opcion id = "3" texto = "Seguir buscando en el garaje" resultado = "22"></opcion>
 
     </escena>
 
@@ -57,8 +57,8 @@
             No parece haber nada util, tan solo una mesa llene de polvo y un par de sillas a su alrededor.
         </texto>
         <opcion id = "1" texto = "Rompes una pata de la mesa del comedor con las manos" resultado = "7"></opcion>
-        <opcion id = "2" texto = "Sales sin armas, hay que aprvechar al máximo el tiempo" resultado = ""></opcion>
-        <opcion id = "3" texto = "Seguir buscando en el garaje" resultado = ""></opcion>
+        <opcion id = "2" texto = "Sales sin armas, hay que aprvechar al máximo el tiempo" resultado = "10"></opcion>
+        <opcion id = "3" texto = "Seguir buscando en el garaje" resultado = "22"></opcion>
 
     </escena>
 
@@ -69,18 +69,18 @@
             Empiezas a oler a sangre, todo tu cuerpo esta cubierto de ella, sales de la ducha y te secas con la toalla lo mejor que puedes.
         </texto>
         <opcion id = "1" texto = "Decides revisar la fuente de la sangre" resultado = "5"></opcion>
-        <opcion id = "2" texto = "Decides no hacer nada respecto a la sangre" resultado = ""></opcion>
-        <opcion id = "3" texto = "Vuelves a la cama y te acurrucas como un bebe, esperando la muerte" resultado = ""></opcion>
+        <opcion id = "2" texto = "Decides no hacer nada respecto a la sangre" resultado = "2"></opcion>
+        <opcion id = "3" texto = "Vuelves a la cama y te acurrucas como un bebe, esperando la muerte" resultado = "9"></opcion>
 
     </escena>
     <escena codigo = "5">
         <texto>
             Antes de acampar, como es costumbre, hiciste un reconocimiento de la zona, y pudiste observar una torre de agua, te diriges hacia ella con cuidado.
-            Por el camino te das cuenta de una horda en la carretera principal, por el momento no parecen ser un peligro, pero lo mejor sería irse pronto.
+            Por el camino te das cuenta de una horda en la carretera principal, dirección oeste, por el momento no parecen ser un peligro, pero lo mejor sería irse pronto.
             Finalmente subes a la torre con cuidado de no caerte, escuchas dentro un extraño gruñido, parece provenir de un animal atrapado.
         </texto>
-        <opcion id = "1" texto = "Abres la trampilla y miras dentro" resultado = "5"></opcion>
-        <opcion id = "2" texto = "Bajas de la torre y te vas" resultado = ""></opcion>
+        <opcion id = "1" texto = "Abres la trampilla y miras dentro" resultado = "23"></opcion>
+        <opcion id = "2" texto = "Bajas de la torre y te vas" resultado = "17"></opcion>
         <opcion id = "3" texto = "Bajas de la torre y vuelves a la casa para buscar un arma" resultado = "6"></opcion>
 
     </escena>
@@ -90,7 +90,7 @@
             Te miras las manos y te das cuenta de las heridas que te has causado, tu muñeca izquierda está ahora esguinzada, y el dolor de la derecha no es mucho menor.
         </texto>
         <opcion id = "1" texto = "Te vendas la mano derecha e intentas estabilizar la izquierda" resultado = "8"></opcion>
-        <opcion id = "2" texto = "Al menos tienes un arma, abres la puerta y te vas" resultado = ""></opcion>
+        <opcion id = "2" texto = "Al menos tienes un arma, abres la puerta y te vas" resultado = "10"></opcion>
         <opcion id = "3" texto = "Buscas por la casa un botiquín" resultado = "6"></opcion>
 
     </escena>
@@ -100,8 +100,8 @@
             No te queda nada más que hacer en esta casa, a no ser que decidas quedarte para ver el fin de tus días en ella.
         </texto>
         <opcion id = "1" texto = "Sales de la casa, en busca de sobrevivir un día más como hermitaño" resultado = "8"></opcion>
-        <opcion id = "2" texto = "Con un arma te sientes más fuerte, y vas hacia la torre de agua, de donde proviene el mal olor" resultado = ""></opcion>
-        <opcion id = "3" texto = "Vuelves a la cama y te acurrucas como un bebe, esperando la muerte" resultado = "6"></opcion>
+        <opcion id = "2" texto = "Con un arma te sientes más fuerte, y vas hacia la torre de agua, de donde proviene el mal olor" resultado = "5"></opcion>
+        <opcion id = "3" texto = "Vuelves a la cama y te acurrucas como un bebe, esperando la muerte" resultado = "9"></opcion>
 
     </escena>
     <escena codigo = "9">
@@ -111,4 +111,156 @@
             Día tras día esperas la muerte, hasta que un día, simplemente no despiertas.
         </texto>
     </escena>
+    <escena codigo = "10">
+        <texto>
+            Sales a la carretera principal y te dirijes hacia el oeste, escapando del sol.
+            Miras a tu alrededor y nos ves rastros de zombies, normalmente es indicativo de que una orda se está amontonando por la zona.
+            Sigues andando y entras en una ciudad desierta.
+
+        </texto>
+        <opcion id = "1" texto = "Entras a la primera tienda que ves" resultado = "11"></opcion>
+        <opcion id = "2" texto = "Con un arma te sientes más fuerte, y vas hacia la torre de agua, de donde proviene el mal olor" resultado = "16"></opcion>
+        <opcion id = "3" texto = "Vuelves a la cama y te acurrucas como un bebe, esperando la muerte" resultado = "6"></opcion>
+
+    </escena>
+    <escena codigo = "11">
+        <texto>
+            En la tiendita encuentras un par de latas recientemente caducadas, puede que comas bien por fin.
+            Parece tener una trastienda en la que puede haber más comida o incluso unbotiquín.
+
+        </texto>
+        <opcion id = "1" texto = "Sales de la tiendita, primero debes buscar un refugio" resultado = "13"></opcion>
+        <opcion id = "2" texto = "Buscas en la trastienda" resultado = ""></opcion>
+        <opcion id = "3" texto = "Abres la lata y calientas la comida" resultado = "12"></opcion>
+
+    </escena>
+    <escena codigo = "12">
+        <texto>
+            Encuentras una trozo del suelo roto y lo utilizas para abrir la lata a golpes.
+            Tras menearla y aboyarla, consigues abrirla lo suficiente para comer por ella.
+            Después de mucho tiempo pasando hambre, has comido demasiado y te sientes pesado.
+
+        </texto>
+        <opcion id = "1" texto = "Descansas un par de horas" resultado = "11"></opcion>
+        <opcion id = "2" texto = "Sales a la carretera y buscas un refugio" resultado = ""></opcion>
+        <opcion id = "3" texto = "Entras a la trastienda a buscar más" resultado = "6"></opcion>
+
+    </escena>
+    <escena codigo = "13">
+        <texto>
+            Vuelves a la avenida principal buscando un refugio.
+            Mientras caminas por fin acabas viendo unos pocos zombis, pero puedes esquivarlos tranquilamente y seguir por los callejones.
+            En uno de ellos ves una puerta abierta, detro no se ve nada, está todo oscuro, pero puede que sea un refugio seguro.
+            También hay un desvío más adelante, hacia la izquierda seguramente se vuelva a la avenida
+
+        </texto>
+        <opcion id = "1" texto = "Entras por la puerta" resultado = "14"></opcion>
+        <opcion id = "2" texto = "Tomas el desvío hacia la izquierda" resultado = ""></opcion>
+        <opcion id = "3" texto = "Tomas el desvío hacia la derecha" resultado = "6"></opcion>
+
+    </escena>
+    <escena codigo = "14">
+        <texto>
+            Entras por la puerta y la dejas abierta para que entre algo de luz, aun así no consigues ver nada a tu alrededor.
+            Caminas por el lugar, parece ser una cocina, comienzas a oir gemidos.
+            Lo más seguro es que haya un zombi dentro.
+
+        </texto>
+        <opcion id = "1" texto = "Salir corriendo" resultado = "15"></opcion>
+        <opcion id = "2" texto = "Seguir caminando con cuidado" resultado = ""></opcion>
+        <opcion id = "3" texto = "sales con cuidado" resultado = "6"></opcion>
+
+    </escena>
+    <escena codigo = "15">
+        <texto>
+            Sales corriendo, por lo que el zombi te escucha.
+            Al salir por la puerta, había otro más esperándote, se avalanza sobre ti y consigue tirarte al suelo.
+            Intentas zafarte, pero el otro se ha añadido a la fiesta, se te están comiendo vivo.
+
+        </texto>
+    </escena>
+    <escena codigo = "16">
+    <texto>
+        Buscas en la trastienda, parece haber un botiquín en la pared.
+        Lo abres, pero no encuentras nada dentro, y el almacén estaba vacío, no hay nada más que hacer aqui dentro
+
+    </texto>
+    <opcion id = "1" texto = "Comer la lata" resultado = "12"></opcion>
+    <opcion id = "2" texto = "Salir a la avenida principal" resultado = "13"></opcion>
+    <opcion id = "3" texto = "Descansar, llevas mucho caminado ya" resultado = ""></opcion>
+    </escena>
+    <escena codigo = "17">
+        <texto>
+            Sales a la carretera principal y te dirijes hacia el este, escapando de la horda, hacia un bosque.
+            Miras a tu alrededor y nos ves rastros de zombies, seguramente por que hace poro han pasado por la zona.
+            Sigues andando y encuentras una cabaña se madera.
+
+        </texto>
+        <opcion id = "1" texto = "Entrar en la cabaña con cuidado" resultado = "18"></opcion>
+        <opcion id = "2" texto = "Seguir buscando por el bosque" resultado = "13"></opcion>
+        <opcion id = "3" texto = "Volver a la casa, te parecía un sitio seguro" resultado = "19"></opcion>
+    </escena>
+    <escena codigo = "18">
+        <texto>
+            Entras en la cabaña, parece estar limpia, en el suelo ves una especie de trampilla.
+            La abres y bajas por unas escalera, parece ser un bunker de la postguerra, es tu dia de suerte.
+            Dentro hay camas, comida y agua, nunca te has sentido tan seguro desde que apareciaron los zombis.
+            Decides quedarte.
+
+        </texto>
+
+    </escena>
+    <escena codigo = "19">
+        <texto>
+            No es la mejor de tus deciciones, estás empezando a delirar, hace poco habías visto la horda.
+            En cuanto sales del bosque te encuentras con su emboscada, estás rodeado.
+            Notas como te comen vivo.
+        </texto>
+    </escena>
+    <escena codigo = "20">
+        <texto>
+            Sigues buscando por el bosque, pero el cansancio se apodera de ti.
+            Poco a poco notas como te vas desvaneciendo.
+            Te desplomas en la tierra, la suerte decidirá si sobrevives o se te comen.
+
+        </texto>
+    </escena>
+    <escena codigo = "21">
+        <texto>
+            Te despiertas por la tarde, has conseguido sobrevivir mágicamente, pero ha pasado mucho tiempo.
+            La horda se escucha cerca, debes tener cuidado.
+            La cabaña parece mejor opción que nunca.
+
+        </texto>
+        <opcion id = "1" texto = "Volver corriendo a la cabaña" resultado = "18"></opcion>
+        <opcion id = "2" texto = "Seguir buscando por el bosque" resultado = "13"></opcion>
+        <opcion id = "3" texto = "Salir corriendo sin rumbo" resultado = "19"></opcion>
+    </escena>
+    <escena codigo = "22">
+        <texto>
+            Buscas por el garaje de la casa, pero no encuentras más que cajas de ropa y recuerdos de una familia desconocida.
+
+        </texto>
+        <opcion id = "1" texto = "Salir de la casa" resultado = "10"></opcion>
+        <opcion id = "2" texto = "Romper la pata de la mesa" resultado = "7"></opcion>
+        <opcion id = "3" texto = "Vuelves a la cama y te acurrucas como un bebe, esperando la muerte" resultado = "9"></opcion>
+
+    </escena>
+    <escena codigo = "23">
+        <texto>
+            Miras dentro, no se puede apreciar mucho, asi que te asomas, quizá más de la cuenta.
+            Un zombi de agarra del hombro y te tira hacia adentro, ¿Cómo ha llegado ahí?
+            No importa, ya te ha mordido y no vas a conseguir escapar, no importa el arma que tengas en las manos, tu momento ha llegado.
+
+        </texto>
+    </escena>
+
+
+
+
+
+
+
+
+
 </aventura>
