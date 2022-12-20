@@ -1,0 +1,16 @@
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\bin\Debug\WFExamen.exe.config
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\bin\Debug\WFExamen.exe
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\bin\Debug\WFExamen.pdb
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.csproj.AssemblyReference.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.csproj.SuggestedBindingRedirects.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.FParte1.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.Properties.Resources.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.csproj.GenerateResource.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.csproj.CoreCompileInputs.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.exe
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.pdb
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.FParte2.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.FParte3.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.FParte4.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.FParte5.resources
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WFExamen\obj\Debug\WFExamen.FParte6.resources

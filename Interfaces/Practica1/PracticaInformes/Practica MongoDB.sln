@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Practica MongoDB", "Practica MongoDB.rptproj", "{5B44043C-A9ED-4B72-8D20-637BADDE999B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B44043C-A9ED-4B72-8D20-637BADDE999B}.Debug|Default.ActiveCfg = Debug
+		{5B44043C-A9ED-4B72-8D20-637BADDE999B}.Debug|Default.Build.0 = Debug
+		{5B44043C-A9ED-4B72-8D20-637BADDE999B}.Debug|Default.Deploy.0 = Debug
+		{5B44043C-A9ED-4B72-8D20-637BADDE999B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{5B44043C-A9ED-4B72-8D20-637BADDE999B}.DebugLocal|Default.Build.0 = DebugLocal
+		{5B44043C-A9ED-4B72-8D20-637BADDE999B}.Release|Default.ActiveCfg = Release
+		{5B44043C-A9ED-4B72-8D20-637BADDE999B}.Release|Default.Build.0 = Release
+		{5B44043C-A9ED-4B72-8D20-637BADDE999B}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F0CFE11-48D7-4FE6-9F6B-CB99F0063A72}
+	EndGlobalSection
+EndGlobal
