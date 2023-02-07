@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPF_Pruebas3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Pruebas3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Button Canvas.Left="10" Canvas.Top="13" Height="100" Content="Hola"/>
+        <Button Canvas.Left="100" Canvas.Top="55" Height="100" Content="Adios"/>
+        <Button Canvas.Left="25" Canvas.Top="50" Height="100" Content="Hola"/>
+        <Button Canvas.Left="150" Canvas.Top="76" Height="100" Content="Hola"/>
+    </Canvas>
+</Window>

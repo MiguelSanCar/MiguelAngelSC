@@ -1,0 +1,20 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Pruebas"
+        mc:Ignorable="d"
+        Title="WPF_Pruebas" Height="500" Width="950" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DockPanel>
+            <Button DockPanel.Dock="Top" Height="100" Content="Arriba"/>
+            <Button DockPanel.Dock="Left" Width="100" Content="Izquierda"/>
+            <Button DockPanel.Dock="Right" Width="100" Content="Derecha"/>
+            <Button DockPanel.Dock="Bottom" Height="50" Content="Abajo"/>
+            <Button Content="Centro"/>
+        </DockPanel>
+
+
+    </Grid>
+</Window>

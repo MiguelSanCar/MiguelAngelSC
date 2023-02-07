@@ -1,0 +1,8 @@
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPF_Pruebas2\obj\Debug\WPF_Pruebas2.csproj.AssemblyReference.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPF_Pruebas2\obj\Debug\WPF_Pruebas2.csproj.SuggestedBindingRedirects.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPF_Pruebas2\obj\Debug\FCanvas.g.cs
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPF_Pruebas2\obj\Debug\StackPanel.g.cs
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPF_Pruebas2\obj\Debug\WrapView.g.cs
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPF_Pruebas2\obj\Debug\App.g.cs
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPF_Pruebas2\obj\Debug\WPF_Pruebas2_MarkupCompile.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPF_Pruebas2\obj\Debug\WPF_Pruebas2_MarkupCompile.lref

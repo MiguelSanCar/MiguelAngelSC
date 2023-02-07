@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPF_Pruebas2.WrapView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Pruebas2"
+        mc:Ignorable="d"
+        Title="WrapView" Height="450" Width="800">
+    <DockPanel>
+        <WrapPanel Orientation="Horizontal">
+            <Button DockPanel.Dock="Top" Width="150" Content="Boton 1"/>
+            <Button DockPanel.Dock="Left" Width="150" Content="Boton 2"/>
+            <Button DockPanel.Dock="Right" Width="150" Content="Boton 3"/>
+            <Button DockPanel.Dock="Right" Width="150" Content="Boton 3"/>
+            <Button DockPanel.Dock="Right" Width="150" Content="Boton 3"/>
+            <Button DockPanel.Dock="Right" Width="150" Content="Boton 3"/>
+
+            <Button DockPanel.Dock="Bottom" Height="150" Content="Boton 4"/>
+            <Button  Content="Boton 5"/>
+
+        </WrapPanel>
+    </DockPanel>
+</Window>

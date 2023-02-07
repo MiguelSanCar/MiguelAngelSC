@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF_Pruebas3.FCalendar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Pruebas3"
+        mc:Ignorable="d"
+        Title="FCalendar" Height="450" Width="800">
+
+    <StackPanel>
+        <Calendar DisplayMode="Month" FirstDayOfWeek="Monday" IsTodayHighlighted="True" SelectedDate="10/29/2021" DisplayDateStart="1/1/2021" DisplayDateEnd="1/1/2022">
+            <Calendar.BlackoutDates>
+                <CalendarDateRange Start="10/15/2021" End="10/18/2021"/>
+                <CalendarDateRange Start="10/1/2021" End="10/5/2021"/>
+            </Calendar.BlackoutDates>
+        </Calendar>
+    </StackPanel>    
+</Window>

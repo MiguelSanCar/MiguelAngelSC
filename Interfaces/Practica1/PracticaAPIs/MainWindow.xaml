@@ -1,0 +1,55 @@
+﻿<Window x:Class="PracticaAPIs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticaAPIs"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        ResizeMode="NoResize">
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\FP\Pictures\playa.webp"/>
+        </Grid.Background>
+        <Button Content="Random Cocktail" FontSize="20" Height="30" Click="onclick1" VerticalAlignment="Top" Margin="315,20,317,0" Background="#FF01D1DB" BorderBrush="#FF161828">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+
+        </Button>
+        <Label Name="label1" Height="46" VerticalAlignment="Top" Margin="0,86,0,0" HorizontalAlignment="Center" FontFamily="Cocktails" FontSize="25"></Label>
+        <Image Name="imagenCoctel" Margin="268,148,270,27">
+            <Image.Effect>
+                <DropShadowEffect/>
+            </Image.Effect>
+        </Image>
+        <Label Content="Ingredients:" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="37" Margin="70,68,0,0" VerticalAlignment="Top" Width="169" FontFamily="Cocktails" FontSize="25"/>
+        <TextBlock Name="labelIngredients"  HorizontalAlignment="Left" Padding="10" Height="279" Margin="70,112,0,0" VerticalAlignment="Top" Width="169" FontFamily="Cocktail" Foreground="Black" RenderTransformOrigin="0.5,0.5" FontStyle="Italic" Opacity="0.7" LineHeight="6" TextAlignment="Justify">
+            <TextBlock.Effect>
+                <DropShadowEffect/>
+            </TextBlock.Effect>
+            <TextBlock.Background>
+                <SolidColorBrush Color="#FF02CED8" Opacity="0.7"/>
+            </TextBlock.Background>
+                <ScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility = "auto"/>
+        </TextBlock>
+        <Label Content="Instructions:" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Height="34"  Margin="559,68,0,0" VerticalAlignment="Top" Width="168" FontFamily="Cocktails" FontSize="25"/>
+        <TextBlock Name="textBoxInstructions" Height="279" Padding="10" Margin="559,112,73,0" VerticalAlignment="Top" TextWrapping="WrapWithOverflow" FontFamily="Cocktail" Foreground="Black" RenderTransformOrigin="0.5,0.5" FontStyle="Italic" Opacity="0.7" TextAlignment="Justify">
+            <TextBlock.Background>
+                <SolidColorBrush Color="#FF02CED8" Opacity="0.7"/>
+            </TextBlock.Background>
+            <TextBlock.Effect>
+                <DropShadowEffect/>
+            </TextBlock.Effect>
+            <ScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility = "auto"/>
+
+        </TextBlock>
+        <Button Content="Alcoholic" FontSize="15" Height="30" Click="onclick2" VerticalAlignment="Top" Margin="336,56,336,0" Background="#FF01D1DB" BorderBrush="#FF161828" Name="boton2">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+
+        </Button>
+    </Grid>
+</Window>

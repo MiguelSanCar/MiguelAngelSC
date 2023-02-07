@@ -1,0 +1,22 @@
+﻿<Window x:Class="StartPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Pruebas"
+        mc:Ignorable="d"
+        Title="StackPanel" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <StackPanel>
+                <Button DockPanel.Dock="Top" Height="100" Content="Boton 1"/>
+                <Button DockPanel.Dock="Left" Height="150" Content="Boton 2"/>
+                <Button DockPanel.Dock="Right" Height="100" Content="Boton 3"/>
+                <Button DockPanel.Dock="Bottom" Height="100" Content="Boton 4"/>
+                <Button  Content="Boton 5"/>
+
+            </StackPanel>
+        </DockPanel>
+        
+    </Grid>
+</Window>

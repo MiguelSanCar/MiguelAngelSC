@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+
+        <!-- Configuración de conexión a base de datos -->
+        <property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+        <property name="hibernate.connection.url">jdbc:sqlserver://localhost:1433;databaseName=Tareas</property>
+        <property name="hibernate.connection.username">sa</property>
+        <property name="hibernate.connection.password">1234</property>
+        <property name="hibernate.connection.encrypt">true</property>
+        <property name="hibernate.connection.trustServerCertificate">true</property>
+
+        <!-- Permite que genere un SQL optimizado para una base de datos relacional en particular -->
+        <!-- En caso de no indicar, Hibernate lo intentará establecer en base a driver_class -->
+        <property name="hibernate.dialect">org.hibernate.dialect.SQLServerDialect</property>
+
+        <!-- Escribe todas las declaraciones SQL a la consola -->
+        <property name="hibernate.show_sql">true</property>
+
+        <!-- Exporta o valida automáticamente DDL de esquema a la base de datos cuando se crea la SessionFactory -->
+        <property name="hibernate.hbm2ddl.auto">create</property>
+
+        <!-- Proporciona una estrategia personalizada para el alcance de la sesión actual -->
+        <property name="hibernate.current_session_context_class">thread</property>
+
+        <!-- Entidades a mapear -->
+        <mapping class="org.example.Cocktail"/>
+        <mapping class="org.example.Ingredientes"/>
+
+    </session-factory>
+</hibernate-configuration>
