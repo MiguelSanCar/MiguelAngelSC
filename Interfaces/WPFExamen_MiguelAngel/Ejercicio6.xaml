@@ -1,0 +1,34 @@
+﻿<Window x:Class="WPFExamen.Ejercicio6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFExamen"
+        mc:Ignorable="d"
+        Title="Ejercicio6" Height="450" Width="800">
+    <DockPanel>
+        <Grid Background="Aqua" DockPanel.Dock="Top" Height="100">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="50*"/>
+                <ColumnDefinition Width="25*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="0" Text="Esquina Izquierda" TextTrimming="CharacterEllipsis"/>
+            <Button Grid.Column="1" Content="SUPERIOR MEDIO" Click="Button_Click" HorizontalAlignment="Center"/>
+            <TextBlock Grid.Column="2" Text="Esquina derecha" TextWrapping="Wrap" HorizontalAlignment="Right"/>
+        </Grid>
+        <StackPanel DockPanel.Dock="Right" Width="200" Margin="20,20,20,0">
+            <Button Content="LATERAL 1" Height="80"/>
+            <Button Content="LATERAL 2" Height="80"/>
+            <Button Content="LATERAL 3" Height="80"/>
+        </StackPanel>
+
+        <WrapPanel DockPanel.Dock="Left">
+            <Button Content="CENTRAL 1" Width="250"/>
+            <Button Content="CENTRAL 2" Width="250"/>
+            <Button Content="CENTRAL 3" Width="250"/>
+        </WrapPanel>
+        
+        
+    </DockPanel>
+</Window>

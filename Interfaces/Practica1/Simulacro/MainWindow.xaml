@@ -1,0 +1,33 @@
+﻿<Window x:Class="Simulacro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Simulacro"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="70*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="15,0,50,0">
+            <Button Content="Boton1"></Button>
+            <Button Content="Boton2"></Button>
+            <Button Content="Boton3"></Button>
+        </StackPanel>
+
+        <DockPanel Grid.Column="1">
+            <Button DockPanel.Dock="Top" Content="BotonArriba"></Button>
+            <Button DockPanel.Dock="Left" Content="BotonArriba"></Button>
+            <Button Content="BotonArriba"></Button>
+        </DockPanel>
+        
+        
+    </Grid>
+</Window>

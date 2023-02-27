@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPFExamen.Ejercicio5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFExamen"
+        mc:Ignorable="d"
+        Title="Ejercicio5" Height="450" Width="800">
+    <StackPanel>
+        <Slider Minimum="0" Maximum="4" Value="0" TickFrequency="1" Height="30" Margin="0,10,0,10" ValueChanged="Slider_ValueChanged" Name="slider"/>
+        <StackPanel Orientation="Horizontal" Height="50">
+            <Button Content="Botón 1" Width="200" Background="AliceBlue" Name="btn1"/>
+            <Button Content="Botón 2" Width="200" Background="AliceBlue" Name="btn2"/>
+            <Button Content="Botón 3" Width="200" Background="AliceBlue" Name="btn3"/>
+            <Button Content="Botón 4" Width="200" Background="AliceBlue" Name="btn4"/>
+
+        </StackPanel>
+    </StackPanel>
+</Window>

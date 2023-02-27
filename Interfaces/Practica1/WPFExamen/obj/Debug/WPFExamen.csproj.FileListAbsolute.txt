@@ -1,0 +1,6 @@
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPFExamen\obj\Debug\WPFExamen.csproj.AssemblyReference.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPFExamen\obj\Debug\WPFExamen.csproj.SuggestedBindingRedirects.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPFExamen\obj\Debug\Ejercicio1.g.cs
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPFExamen\obj\Debug\MainWindow.g.cs
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPFExamen\obj\Debug\WPFExamen_MarkupCompile.cache
+C:\Users\FP\Desktop\Github\MiguelAngelSC\Interfaces\Practica1\WPFExamen\obj\Debug\WPFExamen_MarkupCompile.lref
